@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.codezone.mlutmod
+OpenIDE-Module-Layer: com/codezone/mlutmod/Layer.xml
+OpenIDE-Module-Localizing-Bundle: com/codezone/mlutmod/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

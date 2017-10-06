@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.codezone.mlutmod">
+    <module_version install_time="1280140679006" last="true" origin="installer" specification_version="1.0">
+        <file crc="361260669" name="config/Modules/com-codezone-mlutmod.xml"/>
+        <file crc="2603239176" name="modules/com-codezone-mlutmod.jar"/>
+    </module_version>
+</module>
